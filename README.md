@@ -1,7 +1,7 @@
 # CSS-tips
 
 ## 1. [Effect] Background color slides in when hovering on button
-<img src="https://github.com/baonguyen0703/CSS-tips/assets/98341055/d13317f6-d6ed-4677-83d0-74bc5757c6df" alt="" width='320px'></img>
+<img src="https://github.com/baonguyen0703/CSS-tips/assets/98341055/2065b47d-8aba-42bf-afe3-fea994dd9267" alt="" width='460px'></img>
 
 ### Solution: 
 - create **::before** element with **absolute** position
